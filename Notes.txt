@@ -1,0 +1,9 @@
+2021-06-23
+
+- Proper sequence to create as repository with proper .gitignore and setup:
+1. Create laravel project.
+2. Open GitHub Desktop and create new repository. Select option to create from local source.
+3. Message that folder is not repository appears. Select "create repository" option. Add .gitignore and license files from drop-down menu.
+
+
+
